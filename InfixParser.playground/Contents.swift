@@ -70,6 +70,7 @@ extension String {
     
 }
 
+//THIS EXTENSION IS BY ALECLARSON (http://stackoverflow.com/a/24144365) ON STACKOVERFLOW!
 extension String {
     
     subscript (i: Int) -> Character {
@@ -85,6 +86,7 @@ extension String {
     }
 }
 
+//THIS EXTENSION IS BY ALEX WAYNE (http://stackoverflow.com/a/25330930) ON STACKOVERFLOW!
 extension Array {
     
     // Safely lookup an index that might be out of bounds,
